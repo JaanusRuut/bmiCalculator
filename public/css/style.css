@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkgoldenrod;
+}
+
+
+.container {
+    margin: 5rem auto;
+    text-align: center;
+    width: 75%;
+}
+
+.chat-container{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
